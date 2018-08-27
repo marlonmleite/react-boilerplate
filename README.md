@@ -56,7 +56,7 @@ Run the command storybook and view components using [Storybook](https://github.c
   
 ## Scripts
 
-```json
+```javascript
 //Start webpack in development mode
 "start": "webpack-dev-server",
 
