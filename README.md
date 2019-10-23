@@ -29,7 +29,7 @@ Go to: http://localhost:8080/
 - **storybook**: Storybook configuration (The stories writing in components folder).
 
 
-## Linter
+## Lint
 
 Use [eslint](https://eslint.org/) with Airbnb extension.
 
